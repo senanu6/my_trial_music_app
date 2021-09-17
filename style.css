@@ -3,7 +3,7 @@
 width: 100%;
 height: 100%;
 background-image: url("https://dl.dropboxusercontent.com/s/txzu55xso73xs3s/us11.jpg?dl=0"); 
-background-size: 100%;
+background-size: cover;
 position: absolute;
 top: 0px;
 left: 0px;
